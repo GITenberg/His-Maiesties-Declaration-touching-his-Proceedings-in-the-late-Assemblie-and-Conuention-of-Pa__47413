@@ -1,10 +1,16 @@
 _repo: His-Maiesties-Declaration-touching-his-Proceedings-in-the-late-Assemblie-and-Conuention-of-Pa__47413
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47413-h/images/cover.jpg
 creator:
   author:
     agent_name: Stuart, James
     gutenberg_agent_id: '44301'
     url: http://www.gutenberg.org/2009/agents/44301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47413#His-Maiesties-Declaration-touching-his-Proceedings-in-the-late-Assemblie-and-Conuention-of-Pa_
 gutenberg_issued: '2014-11-21'
 gutenberg_type: Text
 identifiers:
